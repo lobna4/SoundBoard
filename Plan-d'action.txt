@@ -1,0 +1,23 @@
+Plan d'action
+
+HTML:
+Ajouter les div/button/audio (id,class si necessaire) ;
+
+CSS:
+
+Completer la partie manquante du CSS
+
+JS :
+Créer une Fonction qui englobera toutes les autres fonctions.
+
+Creer une autre fonction qui aura un evenement Keydown;
+ 
+Declarer mes variables en les liant aux
+
+Relier mes audios a mes boutons;
+
+Ajouter les conditions;
+
+Lier les effets du sound-active css au js;
+
+Lier les fichiers JS (import/export)
